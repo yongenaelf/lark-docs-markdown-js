@@ -1,0 +1,17 @@
+{
+  "name": "lark-docs-markdown",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.30.0",
+    "markdown-table-ts": "^1.0.3"
+  }
+}
